@@ -1,4 +1,4 @@
-#DC-Motor-Kontrol-Duzenegi
+# DC-Motor-Kontrol-Duzenegi
 
 Düzeneği çalıştırmak için spiITHal dosyasını STM32-F746ZG Nucleo kartına yükledikten sonra, simulink dosyası açılıp çalıştırılmalıdır. usbsetup.m dosyası ile simulink dosyası aynı dizinde değilse hata vericektir.
 Digital Control dersi kapsamında matlab dosyaları çokça değişime uğramış olsalar da hepsi comment olarak durmakta ve çalışmayı etkilememektedir.
